@@ -1,5 +1,5 @@
 # Adhesive_to_scripts
-program compiler for most languages words;
+Program compiler for most languages words;
 Cross-platform application;
 Represents the program which associates the file of a script with the interpreter. Program runtimes (win32) the file is result of *.exe.
 
